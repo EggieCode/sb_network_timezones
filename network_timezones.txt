@@ -795,6 +795,7 @@ funnyordie.com (US):US/Eastern
 fuse:US/Eastern
 Fusion (US):US/Eastern
 FX (AU):Australia/Sydney
+FX (US):US/Eastern
 FX CANADA:Canada/Eastern
 FX MOVIE CHANNEL (US):US/Eastern
 FX:US/Eastern
@@ -1729,6 +1730,7 @@ Sprout (US):US/Eastern
 spt tv (US):US/Eastern
 SR:Europe/Berlin
 SRF 1:Europe/Zurich
+Stan:Australia/Sydney
 Star Channel (GR):Europe/Athens
 STAR Chinese Channel:Asia/Taipei
 Star Gold (UK):Europe/London
@@ -1906,6 +1908,7 @@ TND (AU):Australia/Sydney
 TNQ (AU):Australia/Sydney
 TNT Serie:Europe/Berlin
 TNT:US/Eastern
+TNT (US):US/Eastern
 TNU:America/Montevideo
 Toei Channel:Asia/Tokyo
 Tokai TV (JP):Asia/Tokyo
